@@ -7,3 +7,5 @@ temporary.txt
 .vs
 .idea
 /bin/
+bin
+obj
