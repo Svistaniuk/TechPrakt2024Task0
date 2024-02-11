@@ -3,3 +3,7 @@
 .idea
 /bin/
 temporary.txt
+/obj/
+.vs
+.idea
+/bin/
