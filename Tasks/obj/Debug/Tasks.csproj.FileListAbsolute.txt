@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\TechPrakt\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Acer\source\repos\TechPrakt\Tasks\bin\Debug\Tasks.exe
+C:\Users\Acer\source\repos\TechPrakt\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Acer\source\repos\TechPrakt\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\TechPrakt\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\TechPrakt\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TechPrakt\Tasks\obj\Debug\Tasks.exe
+C:\Users\Acer\source\repos\TechPrakt\Tasks\obj\Debug\Tasks.pdb
